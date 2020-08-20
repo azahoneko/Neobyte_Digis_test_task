@@ -1,3 +1,6 @@
+To run this app: `yarn start`
+
+
 This application is test app
 A lot will be different in a real application.
 1. Use react-router instead of mutating location programmatically
